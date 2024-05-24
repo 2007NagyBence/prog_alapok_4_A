@@ -64,3 +64,8 @@ body {
 #cim {
     margin-bottom: 50px;
 }
+
+#zold_ragyogas {
+    -webkit-filter: drop-shadow(0px 0px 15px green);
+filter: drop-shadow(0px 0px 15px green);
+}
